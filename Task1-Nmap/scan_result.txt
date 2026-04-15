@@ -1,0 +1,14 @@
+# Nmap 7.99 scan initiated Tue Apr 14 22:53:57 2026 as: /usr/lib/nmap/nmap -sS -oN scan_result.txt 10.116.114.0/24
+Nmap scan report for 10.116.114.63
+Host is up (0.0044s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: B6:AB:BD:50:A8:A2 (Unknown)
+
+Nmap scan report for 10.116.114.157
+Host is up (0.00066s latency).
+All 1000 scanned ports on 10.116.114.157 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: F8:89:D2:17:62:D1 (Cloud Network Technology Singapore PTE.)
+
