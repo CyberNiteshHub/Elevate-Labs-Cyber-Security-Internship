@@ -1,33 +1,43 @@
 # 🔐 Elevate Labs Cyber Security Internship
 
 This repository contains all the tasks completed during the **Elevate Labs Cyber Security Internship**.  
-The purpose of this internship is to build strong practical knowledge in cybersecurity through hands-on activities and real-world scenarios.
+The focus of this internship was to build strong practical understanding of cybersecurity concepts through real-world scenarios and hands-on implementation.
 
 ---
 
 ## 📌 About the Internship
 
-This internship focuses on learning and applying core cybersecurity concepts such as:
+This internship is centered around applying core cybersecurity skills in a practical environment. The work includes:
 
-- Network scanning
-- Phishing detection
-- Vulnerability assessment
-- Firewall configuration
+- Network scanning and enumeration  
+- Phishing detection and analysis  
+- Vulnerability assessment  
+- Firewall configuration  
+- Network traffic analysis  
+- Password security evaluation  
 
-Each task is designed to provide practical experience and improve problem-solving skills in the cybersecurity domain.
+Each task was completed with proper documentation, screenshots, and reports to demonstrate real execution.
 
 ---
 
 ## 📁 Project Structure
+
+
 Elevate Labs Cyber Security Internship/
 │
 ├── Task1-Nmap
 ├── Task2-Phishing
 ├── Task3-Scanning
 ├── Task4-Firewall
+├── Task5-Wireshark
+├── Task6-Password-Strength-Analysis
+├── PSAWG-Password-Analyzer
+│
+└── README.md
 
-Each folder contains:
-- 📄 Report file  
+
+Each task folder contains:
+- 📄 Report / Documentation  
 - 📸 Screenshots  
 - 📑 Task description (PDF)  
 
@@ -36,34 +46,65 @@ Each folder contains:
 ## 🚀 Tasks Description
 
 ### 🔍 Task 1: Network Scanning (Nmap)
-- Scanned the local network to identify active devices
-- Detected open ports and running services
-- Analyzed potential security risks
+- Identified active devices in the network  
+- Discovered open ports and services  
+- Analyzed possible attack surfaces  
 
 ---
 
 ### 📧 Task 2: Phishing Email Analysis
-- Analyzed a suspicious email sample
-- Identified phishing indicators such as:
-  - Fake sender address
-  - Suspicious links
-  - Urgent language
-- Explained social engineering techniques used
+- Examined suspicious email samples  
+- Identified phishing indicators:
+  - Fake sender identity  
+  - Malicious links  
+  - Urgent / manipulative language  
+- Explained social engineering techniques  
 
 ---
 
 ### 🛡️ Task 3: Vulnerability Scanning
-- Performed vulnerability assessment using OpenVAS
-- Identified high and medium severity vulnerabilities
-- Analyzed risks and suggested mitigation strategies
+- Performed vulnerability assessment using OpenVAS  
+- Identified high and medium severity issues  
+- Suggested mitigation strategies  
 
 ---
 
 ### 🔥 Task 4: Firewall Configuration (UFW)
-- Configured firewall rules using UFW on Kali Linux
-- Blocked Telnet port (23)
-- Allowed SSH port (22)
-- Tested and verified firewall rules
+- Configured firewall rules in Kali Linux  
+- Blocked insecure ports (Telnet - 23)  
+- Allowed secure access (SSH - 22)  
+- Verified rules through testing  
+
+---
+
+### 🌐 Task 5: Network Traffic Analysis (Wireshark)
+- Captured live network packets  
+- Applied filters (DNS, HTTP, TCP)  
+- Analyzed request-response behavior  
+- Understood packet-level communication  
+
+---
+
+### 🔑 Task 6: Password Strength Analysis
+- Tested different passwords using online tools  
+- Evaluated complexity, entropy, and patterns  
+- Compared weak vs strong passwords  
+- Understood password security best practices  
+
+---
+
+## 🚀 Major Project
+
+### 🔐 PSAWG — Password Strength Analyzer & Wordlist Generator
+
+An advanced cybersecurity tool developed during the internship.
+
+- Password strength analysis using real-world techniques  
+- Custom wordlist generation for security testing  
+- CLI + Web-based interface  
+- Useful for understanding brute-force and password attack scenarios  
+
+📁 Folder: `PSAWG-Password-Analyzer`
 
 ---
 
@@ -71,39 +112,43 @@ Each folder contains:
 
 - Kali Linux  
 - Nmap  
-- OpenVAS (Greenbone Vulnerability Manager)  
-- UFW (Uncomplicated Firewall)  
-- Telnet  
+- OpenVAS (Greenbone)  
+- Wireshark  
+- UFW Firewall  
+- Python  
+- Web Technologies (HTML/CSS)  
 
 ---
 
 ## 📊 Skills Gained
 
-Through this internship, the following skills were developed:
+Through this internship, I developed practical skills in:
 
-- Network Scanning and Enumeration  
+- Network Scanning & Enumeration  
 - Vulnerability Assessment  
-- Phishing Detection and Analysis  
-- Firewall Configuration and Management  
-- Security Risk Analysis  
+- Phishing Detection  
+- Firewall Configuration  
+- Packet Analysis  
+- Password Security Analysis  
+- Basic Security Tool Development  
 
 ---
 
 ## 📸 Documentation
 
-Each task includes:
-- Step-by-step screenshots  
-- Command outputs  
-- Detailed reports  
+Each task includes proper documentation:
 
-This ensures transparency and proper understanding of each process.
+- Step-by-step execution  
+- Command outputs  
+- Screenshots as proof  
+- Reports explaining findings  
 
 ---
 
 ## 🎯 Conclusion
 
-This internship provided valuable hands-on experience in cybersecurity.  
-It helped in understanding real-world security issues and how to identify and mitigate them effectively.
+This internship helped in understanding how cybersecurity concepts are applied in real environments.  
+It strengthened both technical knowledge and practical implementation skills.
 
 ---
 
@@ -116,6 +161,4 @@ Cyber Security Enthusiast | Ethical Hacking Learner
 
 ## ⭐ Acknowledgment
 
-Special thanks to **Elevate Labs** for providing this opportunity to learn and explore cybersecurity in a practical way.
-
-
+Special thanks to **Elevate Labs** for providing this opportunity to gain practical experience in cybersecurity.
