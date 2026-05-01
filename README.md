@@ -608,10 +608,10 @@ copies or substantial portions of the Software.
 **Nitesh Verma** (Cyber Nitesh)  
 Cyber Security Enthusiast | Ethical Hacking Learner
 
-- 🔗 GitHub: [@yourusername](https://github.com/CyberNiteshHub)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nitesh-verma-4ba443363)
-- 🌐 Portfolio: [Your Website](https://cyberniteshportfolio.netlify.app)
-- 📧 Email: your.email@example.com
+- 🔗 GitHub: [CyberNiteshHub](https://github.com/CyberNiteshHub)
+- 💼 LinkedIn: [Nitesh Verma](https://www.linkedin.com/in/nitesh-verma-4ba443363)
+- 🌐 Portfolio: [Nitesh Verma Portfolio](https://cyberniteshportfolio.netlify.app)
+- 📧 Email: niteshkumar3133845@gmail.com
 
 ---
 
